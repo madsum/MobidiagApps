@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiples", "Multiples\Multiples.csproj", "{041708A2-4887-4309-ACE4-F4F93F8AA6C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMultiples", "TestMultiples\TestMultiples.csproj", "{96841EF4-0C35-4D7C-85F5-8E89AB6B3D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041708A2-4887-4309-ACE4-F4F93F8AA6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041708A2-4887-4309-ACE4-F4F93F8AA6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041708A2-4887-4309-ACE4-F4F93F8AA6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041708A2-4887-4309-ACE4-F4F93F8AA6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96841EF4-0C35-4D7C-85F5-8E89AB6B3D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96841EF4-0C35-4D7C-85F5-8E89AB6B3D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96841EF4-0C35-4D7C-85F5-8E89AB6B3D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96841EF4-0C35-4D7C-85F5-8E89AB6B3D60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36B6A54F-E7D4-4B2A-A0C0-A8C9CB37DBF3}
+	EndGlobalSection
+EndGlobal
