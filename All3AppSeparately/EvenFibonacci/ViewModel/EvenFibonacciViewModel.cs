@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace EvenFibonacci.ViewModel
+﻿namespace EvenFibonacci.ViewModel
 {
     public class EvenFibonacciViewModel
     {

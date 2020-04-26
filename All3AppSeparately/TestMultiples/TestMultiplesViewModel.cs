@@ -1,5 +1,4 @@
 using Multiples.ViewModel;
-using System;
 using Xunit;
 
 namespace TestMultiples

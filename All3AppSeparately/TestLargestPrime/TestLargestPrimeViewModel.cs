@@ -1,5 +1,4 @@
 using LargestPrime.ViewModel;
-using System;
 using Xunit;
 
 namespace TestLargestPrime

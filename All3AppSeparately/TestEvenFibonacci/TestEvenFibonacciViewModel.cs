@@ -1,5 +1,4 @@
 using EvenFibonacci.ViewModel;
-using System;
 using Xunit;
 
 namespace TestEvenFibonacci
@@ -10,7 +9,7 @@ namespace TestEvenFibonacci
         public void TestSumOfFibEvenNumber()
         {
             // Arrange
-            EvenFibonacciViewModel evenFibonacciViewModel 
+            EvenFibonacciViewModel evenFibonacciViewModel
                 = new EvenFibonacciViewModel();
             ulong expectResult = 10;
 
