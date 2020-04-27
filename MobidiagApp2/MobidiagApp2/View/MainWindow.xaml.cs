@@ -48,11 +48,15 @@ namespace MobidiagApp2
                 AlertPopup.IsOpen = true;
                 Console.Beep();
                 BtnTotalMutiple.IsEnabled = false;
+                BtnFibSum.IsEnabled = false;
+                BtnPrimeNumber.IsEnabled = false;
             }
             else
             {
                 AlertPopup.IsOpen = false;
                 BtnTotalMutiple.IsEnabled = true;
+                BtnFibSum.IsEnabled = true;
+                BtnPrimeNumber.IsEnabled = true;
             }
         }
 
